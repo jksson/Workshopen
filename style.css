@@ -8,3 +8,8 @@ h1 {
     color: white;
     font-size: 10rem;
 }
+
+p {
+    background: #36525a;
+    text-align: center;
+}
